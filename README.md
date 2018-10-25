@@ -37,8 +37,8 @@ $$ f'(x) = \lim_{\Delta x\to0} \frac{\Delta f}{\Delta x}  = \lim_{h\to0} \frac{f
 ## Rules for calculating the derivative
 
 Derivative rules allow us not just to evaluate the derivative at a single point, as we have done previously, but across any value of $x$ of the function. The most important rules for derivatives are classified in three groups:
-- the power rule
-- the constant factor rule
+- The power rule
+- The constant factor rule
 - The addition rule
 
 ### The power rule
