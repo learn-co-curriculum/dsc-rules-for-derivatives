@@ -8,6 +8,8 @@ You'll learn about these shortcuts in this lesson!
 
 ## Objectives
 
+You will be able to:
+
 * Understand the rules for taking the derivative of each term
 * Understand how to take the derivative of a function 
 
