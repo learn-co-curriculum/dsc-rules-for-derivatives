@@ -128,7 +128,7 @@ Note that $x$ represents the number of seconds our runner has run, so negative $
 - when $x=-2$, then $f'(-2) = -4$
 - when $x=-7$, then $f'(-7)=-14$
 
-We won't prove the power rule here.  But hopefully you can see that it does seem to fit our graph of the function $f(x) = x^2$.  Let's take a look.
+We won't prove the power rule here.  But hopefully, you can see that it does seem to fit our graph of the function $f(x) = x^2$.  Let's take a look.
 
 
 ```python
@@ -285,6 +285,6 @@ $$g'(x) = 24x + 8x = 32x$$
 
 ## Summary
 
-In this section, we learned a different way for calculating the derivative.  The derivative of a function at a given point is still the instantaneous rate of change of that function at that point. Now we have three rules that allow us to calculate our derivative.  The most tricky of these is the power rule, which says that if $f(x) = x^r$, then $ f'(x) = r * x^{r-1} $.
+In this section, we learned a different way to calculate the derivative.  The derivative of a function at a given point is still the instantaneous rate of change of that function at that point. Now we have three rules that allow us to calculate our derivative.  The most tricky of these is the power rule, which says that if $f(x) = x^r$, then $ f'(x) = r * x^{r-1} $.
 
 Using our derivative rules, we can now calculate the derivative across the entire function.  So the derivative of $f(x) = 6x $ is always 6, and the derivative of $f(x) = x^2 $ is $f(x) = 2x $.  To evaluate our derivative at a specific value of $x$, we simply plug that value of $x$ into our derivative.  When $f'(x) = 2x$, then $f'(2) = 2*2$.  
