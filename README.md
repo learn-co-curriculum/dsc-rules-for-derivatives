@@ -120,7 +120,7 @@ Think about what our calculation for $f'(x)$ is saying about our function.  It s
 $$ f'(x) = 2*x $$
 
 * So when $ x = 2$ then $f'(2) = 2*2 = 4 $
-* When $ x = 5 $, then $ f'(3) = 2*5 = 10$
+* When $ x = 5 $, then $ f'(5) = 2*5 = 10$
 * And when $ x = 10 $, then $ f'(10) = 2*10 = 20$. 
 
 Note that $x$ represents the number of seconds our runner has run, so negative $x$ doesn't make sense here. But there are numerous examples where input variables can be negative, and the same rules are simply applicable here as well. For example, imagine the same function where $x$ represents temperatures.
