@@ -33,7 +33,7 @@ This convergence around one number is called the **limit**.  And we can describe
 
 We read this as the limit of $\dfrac{\Delta f}{\Delta x}$ as  ${\Delta x}$ approaches zero equals 4.  So, in general our definition of the derivative is:
 
-$$f'(x) = \lim_{\Delta x\to0} \frac{\Delta f}{\Delta x}  = \lim_{h\to0} \frac{f(x + h) - f(x)}{h}$$
+$f'(x) = \lim_{\Delta x\to0} \frac{\Delta f}{\Delta x}$  = $\lim_{h\to0} \frac{f(x + h) - f(x)}{h}$
 
 ## Rules for calculating the derivative
 
@@ -103,7 +103,7 @@ $$f'(x) = r*x^{r-1}$$
 
 we see that in this case $r = 1$.  So applying our power rule we have: 
 
-$$f'(x) = r*6*x^{r-1} = 1*6*x^{1-1} = 6*x^{0} = 6$$
+$f'(x) = r*6*x^{r-1}$ = $1*6*x^{1-1}$ = $6*x^{0} = 6$
 
 Great!  This is aligns with what our graph shows, as well as our calculation using the original definition of the derivative, $\displaystyle\lim_{\Delta x\to0} \dfrac{\Delta y}{\Delta x}$.
 
@@ -197,7 +197,7 @@ $$f(x) = 2x^2$$
 
 Then:
 
-$$f'(x) = 2*\frac{\Delta f}{\Delta x} x^{2} = 2*2*x^{2-1} = 4x^1 = 4x$$
+$f'(x) = 2*\frac{\Delta f}{\Delta x} x^{2}$ = $2*2*x^{2-1} = 4x^1 = 4x$
 
 That's the constant factor rule in action.
 
